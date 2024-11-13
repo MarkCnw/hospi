@@ -295,7 +295,7 @@ class _DetailPageState extends State<DetailPage> {
       color: const Color(0xff51A8FF),
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
       child: const Text(
-        'click here to จองคิว!!',
+        'click here to จอง',
         style: TextStyle(color: Colors.white, fontSize: 16),
       ),
     );
